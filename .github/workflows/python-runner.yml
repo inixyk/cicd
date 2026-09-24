@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-python-app:
-    # Mengarahkan pipeline ke self-hosted runner Windows Anda
+    # Mengarahkan pipeline ke self-hosted runner Windows 
     runs-on: [ self-hosted, windows ]
 
     steps:
